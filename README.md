@@ -14,8 +14,10 @@ For each example you need to:
 ## Examples
 
 - [Notify user of login][4]
+- [Fill in SWAPI Person Data][5]
 
 [1]: https://www.drupal.org/project/eca
 [2]: https://www.drupal.org/project/bpmn_io
 [3]: https://www.drupal.org/project/http_client_manager
 [4]: notify-user-of-login.md
+[5]: fill-in-swapi-person-data.md
